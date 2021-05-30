@@ -1,2 +1,5 @@
 *.txt
 /archive
+*.jpeg 
+*.jpg
+*.png
